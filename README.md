@@ -43,10 +43,10 @@ User-defined functions that:
 ## 🖼️ Diagrams
 
 ### 📊 ER Diagram
-![ER Diagram](./er_diagram.png)
+![ER Diagram](MiniProjectER.png)
 
 ### 🧩 Relational Schema
-![Relational Schema](./rs_diagram.png)
+![Relational Schema](MiniProjectRS.png)
 
 ---
 
